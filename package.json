@@ -1,0 +1,13 @@
+{
+  "name": "json-server-issue-690",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "json-server": "^0.12.1"
+  }
+}
